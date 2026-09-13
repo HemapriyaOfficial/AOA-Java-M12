@@ -1,6 +1,6 @@
 
 # EX 2B Jump Game using Greedy Algorithm.
-## DATE: 7.9.26
+## DATE: 7.8.26
 ## AIM:
 To write a Java program to for given constraints.
 You are given an array of integers. Each number represents the maximum number of steps you can jump forward from that position.
